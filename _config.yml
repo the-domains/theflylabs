@@ -1,6 +1,6 @@
 name: theflylabs
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.1771558583714068
 title: The FLy Labs
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#575853'
+    - '#8a8c87'
+    - '#a5a7a2'
+    - '#cccec9'
   brandStrength: 0.3097795338835567
   lightness: 0.45243373280391097
   saturation: 0.21360737970098853
